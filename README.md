@@ -1,19 +1,18 @@
 # Welcome to My GitHub Profile! 👋
 
-I’m **Aviv Yehuda**, a Mathematics and Computer Science student at Tel Aviv University. I’m passionate about numerical simulations, machine learning, and data analysis. Here’s a snapshot of my work and interests!
+I’m **Aviv Yehuda**, a Mathematics and Computer Science student at Tel Aviv University, with a focus on combinatorics, probability, and numerical analysis. I’m passionate about applying mathematical principles to fields like machine learning, data analysis, and computer graphics. Here’s a snapshot of my work and interests!
 
 ## 🔧 Skills
-- **Programming Languages**: Python, C, Java
-- **Fields of Interest**: Numerical Simulations, Clustering Algorithms, Image Processing
+- **Programming Languages**: Python, C, Java, Assembly
+- **Core Specializations**: Combinatorics, Probability, Numerical Analysis
 - **Technologies**: Git, MySQL, Matplotlib, VPython
+- **Notable Coursework**: Data Structures & Algorithms, Machine Learning, Error-Correcting Codes, Computer Graphics, Vision, and Image Processing
 
 ## 🛠️ Projects
-- **[SymNMF Clustering Algorithm](https://github.com/AvivYehuda1/SymNMF-clustering-algorithm-Software-Project)**: A Python and C project implementing Symmetric Non-negative Matrix Factorization for clustering.
-- **[Ray Tracing](https://github.com/AvivYehuda1/Ray-Tracing)**: A basic ray tracing algorithm that simulates realistic lighting and reflections.
-- **[GrabCut and Poisson Blending](https://github.com/AvivYehuda1/GrabCut-and-Poisson-blending)**: Image segmentation and blending techniques for seamless compositing.
+- **[SymNMF Clustering Algorithm](https://github.com/AvivYehuda1/SymNMF-clustering-algorithm-Software-Project)**: A Python and C project implementing Symmetric Non-negative Matrix Factorization for clustering, complete with analysis and visualization tools.
+- **[Ray Tracing](https://github.com/AvivYehuda1/Ray-Tracing)**: A ray tracing algorithm simulating realistic lighting and reflections, demonstrating advanced graphical rendering techniques.
+- **[GrabCut and Poisson Blending](https://github.com/AvivYehuda1/GrabCut-and-Poisson-blending)**: Image segmentation and seamless compositing using foreground extraction and Poisson blending for natural transitions.
 
 ## 🌐 Connect With Me
-- **LinkedIn**: [Aviv Yehuda](https://www.linkedin.com/in/aviv-yehuda-11511219a/)
-
+- **LinkedIn**: [Aviv Yehuda](https://linkedin.com/in/aviv-yehuda-11511219a/)
 - **Email**: [avivty66@gmail.com](mailto:avivty66@gmail.com)
-
