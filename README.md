@@ -13,6 +13,6 @@ I’m **Aviv Yehuda**, a Mathematics and Computer Science student at Tel Aviv Un
 - **[GrabCut and Poisson Blending](https://github.com/AvivYehuda1/GrabCut-and-Poisson-blending)**: Image segmentation and blending techniques for seamless compositing.
 
 ## 🌐 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [[Your LinkedIn Profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/aviv-yehuda-11511219a/)
+- **Email**: [avivty66@gmail.com](mailto:avivty66@gmail.com)
 
