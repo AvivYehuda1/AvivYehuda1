@@ -3,7 +3,7 @@
 I’m **Aviv Tadmor Yehuda**, a Mathematics and Computer Science student at Tel Aviv University, with a focus on combinatorics, probability, and numerical analysis. I’m passionate about applying mathematical principles to fields like machine learning, data analysis, and computer graphics. Here’s a snapshot of my work and interests!
 
 ## 🔧 Skills
-- **Programming Languages**: Python, C, Java, Assembly
+- **Programming Languages**: Python, C, Java, SQL
 - **Core Specializations**: Combinatorics, Probability, Numerical Analysis
 - **Technologies**: Git, MySQL, Matplotlib, VPython
 - **Notable Coursework**: Data Structures & Algorithms, Machine Learning, Error-Correcting Codes, Computer Graphics, Vision, and Image Processing
