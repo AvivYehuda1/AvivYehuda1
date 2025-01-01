@@ -14,5 +14,5 @@ I’m **Aviv Tadmor Yehuda**, a Mathematics and Computer Science student at Tel 
 - **[GrabCut and Poisson Blending](https://github.com/AvivYehuda1/GrabCut-and-Poisson-blending)**: Image segmentation and seamless compositing using foreground extraction and Poisson blending for natural transitions.
 
 ## 🌐 Connect With Me
-- **LinkedIn**: [Aviv Yehuda](https://linkedin.com/in/aviv-yehuda-11511219a/)
+- **LinkedIn**: [Aviv Yehuda](https://www.linkedin.com/in/avivyehuda/)
 - **Email**: [avivty66@gmail.com](mailto:avivty66@gmail.com)
