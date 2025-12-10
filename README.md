@@ -16,7 +16,7 @@ Currently focusing on building **Autonomous AI Agents**, integrating LLMs with s
   
 ## 🚀 Featured Project
 
-### 🤖 [Autonomous AI Sales Agent]
+### 🤖 Autonomous AI Sales Agent
 **Tech Stack:** Python, SQL, LLM APIs (OpenAI/Gemini), Pandas, RAG.
 
 An end-to-end autonomous agent designed to automate business intelligence tasks.
