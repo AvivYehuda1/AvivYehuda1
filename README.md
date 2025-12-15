@@ -8,7 +8,7 @@ Currently focusing on building **Autonomous AI Agents**, integrating LLMs with s
 
 ## 🔧 Tech Stack & Skills
 
-- **Programming Languages**: Python (Advanced), Java, C, SQL
+- **Programming Languages**: Python, Java, C, SQL
 - **AI & GenAI**: LLMs Integration, AI Agents, RAG, Prompt Engineering, RLHF
 - **Data & Science**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Core Competencies**: Algorithmic Problem Solving, Data Analysis, OOP
